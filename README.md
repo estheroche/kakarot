@@ -17,7 +17,7 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/KakarotZkEvm?style=social)](https://x.com/KakarotZkEvm)
 [![Discord](https://img.shields.io/discord/984015101017346058?color=%235865F2&label=Discord&logo=discord&logoColor=%23fff)](https://discord.gg/kakarotzkevm)
 
-This repository contains the set of Cairo (Cairo compiler version Zero) programs
+This repository contains the set of [Cairo](https://www.cairo-lang.org/) (Cairo compiler version Zero) programs
 that implement the core EVM logic of Kakarot zkEVM.
 
 Kakarot is an EVM implementation in Cairo. Cairo being a high-level
